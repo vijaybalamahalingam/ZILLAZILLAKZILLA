@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include<math.h>
+int main()
+{
+float radiusofball,volumeofball;
+scanf("%f",&radiusofball);
+volumeofball=(4.0/3.0)*3.14*pow(radiusofball,3.0);
+printf("%f",volumeofball);
+	return 0;
+}
