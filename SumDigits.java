@@ -19,12 +19,3 @@ public class SumDigits
         
 
 
-
-
-
-
-
-
-
-
-
